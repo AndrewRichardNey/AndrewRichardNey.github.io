@@ -16,3 +16,27 @@ For my midterm Adventure Game, I decided to put a spin on Chicago's infamous CTA
 ### First Station 
 <img width="985" alt="AdventureP1" src="https://user-images.githubusercontent.com/100959975/163227462-0852f2f4-c896-4f8d-a66c-ca2d221e2df4.png">
 
+## Playground Work from Week 1
+
+This was done as a general introduction to C# and included elements from course lecture and independent experimentation to help determine how I will format my Midterm Adventure Game
+
+### Final Results
+
+<img width="1014" alt="File1" src="https://user-images.githubusercontent.com/100959975/163510710-e3db6f19-643a-4cdc-9217-02f67e2bcde6.png">
+
+## Simple Store Application
+
+The following lines of code was to build a very simple store application to demonstrate the proper use of classes and namespaces. 
+
+### Final Results
+
+<img width="874" alt="File2" src="https://user-images.githubusercontent.com/100959975/163511399-7060278a-d21f-4923-b95f-67ea8ca20ae0.png">
+
+## Mad Lib Application
+
+Quick little Mad Lib application taking advantages of learning variables and functions.
+
+### Final Results 
+
+<img width="1388" alt="File3" src="https://user-images.githubusercontent.com/100959975/163512679-cf19eb97-a8a2-4934-aaae-994c33104a28.png">
+
